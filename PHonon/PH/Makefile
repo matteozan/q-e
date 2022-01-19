@@ -189,7 +189,8 @@ d2mxc.o    \
 raman_mat.o\
 raman.o    \
 dhdrhopsi.o\
-set_dvscf.o
+set_dvscf.o\
+GET_GRID.o
 
 PHAUXOBJS = \
 write_eigenvectors.o
